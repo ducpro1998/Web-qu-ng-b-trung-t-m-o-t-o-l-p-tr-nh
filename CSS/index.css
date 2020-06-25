@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+*{font-family:Arial, Helvetica, sans-serif;margin:0px;padding:0px}
+#wrapper {width:100%;height:100%;margin:0 auto;padding-top:120px}
+#menu {height:120px;width:100%;position:fixed; font-size:18px;background-color:#FFF; z-index:1;box-shadow:0 4px 8px 0 #A8A8A8}
+#menu a {color:black ; text-decoration:none}
+#menu a:hover{color:#F00;text-decoration:underline}
+#header{height:500px;background-color:#C66;color:#000}
+#header img{width:100%;height:500px}
+#content{min-height:150px}
+#footer{color:#FFF; background-color:#333; padding-left:100px }
+#footer h3 {text-decoration:underline}
+#footer a {color:#CCC; text-decoration:none}
+#footer p {color:#CCC}

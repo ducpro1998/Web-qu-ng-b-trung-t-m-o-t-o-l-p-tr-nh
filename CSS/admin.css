@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+#content_admin{font-weight:bold}
+#b_admin_func1{margin-bottom:100%;width:100%;height:50px;color:#FFF;background-color:#2D2D2D;border:outset}
+#b_admin_func1:hover{background-color:#000}
+#table_content_admin{ }
+#table_content_admin_name{color:#FFF;background-color:#2D2D2D}
+#table_content_admin_button{color:#FFF;background-color:#2D2D2D}
+

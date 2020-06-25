@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+#txt_sdt{width:100%}
+#txt_email{width:100%}
+#txt_name{width:100%}
+#txt_mess{width:100%;height:169px;}
+#btn_send{background-color:#D51E42;color:white;width:80px;height:80%}
+#line_1{padding-left:90px;color:#D51E42}
+#line_2{padding-left:90px}
+#link{padding-left:90px; padding-top:10px}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+

@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+/*Nội dung 1*/
+#content_trang_chu_1{margin:0 auto}
+#table_loi_ich_content1{margin:0 auto; text-align:center}
+#loi_ich_1_content1 {background-image:url(../picture/trang_chu/content1/loi_ich1.png); background-repeat:no-repeat; background-position:center}
+#loi_ich_2_content1 {background-image:url(../picture/trang_chu/content1/loi_ich2.png); background-repeat:no-repeat; background-position:center}
+#loi_ich_3_content1 {background-image:url(../picture/trang_chu/content1/loi_ich3.png); background-repeat:no-repeat; background-position:center}
+#loi_ich_4_content1 {background-image:url(../picture/trang_chu/content1/loi_ich4.png); background-repeat:no-repeat; background-position:center}
+#title_content1{border-bottom:solid #D51E42; padding-bottom:2px}
+#title_loi_ich_content1{font-weight:bold}
+#highlight_loi_ich_content1{color:#D51E42; font-weight:bold}
+
+/*Nội dung 2*/
+#content_trang_chu_2_content2{margin:0 auto;background-color:#F5F5F5}
+#table_loi_ich_2_content2{margin:0 auto; text-align:center}
+#loi_ich_1_content2{background-image:url(../picture/trang_chu/content2/loi_ich1.jpg);background-size:75% 90% ; background-repeat:no-repeat; background-position:center}
+#loi_ich_2_content2{background-image:url(../picture/trang_chu/content2/loi_ich2.jpg);background-size:75% 90% ; background-repeat:no-repeat; background-position:center}
+#loi_ich_3_content2{background-image:url(../picture/trang_chu/content2/loi_ich3.jpg);background-size:75% 90%; background-repeat:no-repeat; background-position:center}
+#title_loi_ich_content2{font-weight:bold}
+#highlight_loi_ich_content2{color:#D51E42; font-weight:bold}
+#title_content2{border-bottom:solid #D51E42; padding-bottom:1px}
+
+/*nội dung 3 */
+#slide_sanpham1_content3{margin:0 auto;text-align:center}
+#slide_sanpham2_content3{margin:0 auto;text-align:center}
+#title_content3{width:75%;margin:0 auto; text-align:center; font-weight:bold;border-bottom:solid #D51E42}
+#vid_product1_content3 iframe{width:98%;height:100%}
+#vid_product2_content3 iframe{width:98%;height:100%}
+#title_product1_content3{font-weight:bold}
+#title_product2_content3{font-weight:bold}
